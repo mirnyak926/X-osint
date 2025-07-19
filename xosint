@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+cd X-osint 
+chmod +x * 
+bash setup.sh
 import signal
 import tempfile
 from googlesearch import search # type: ignore
